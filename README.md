@@ -1,16 +1,31 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm Ren Baoshuo.</h3>
 
-<!--
-**renbaoshuo/renbaoshuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://baoshuo.ren">Website</a>&nbsp;•&nbsp;
+<a href="https://baoshuo.blog">Blog</a>&nbsp;•&nbsp;
+<a href="https://twitter.com/renbaoshuo">Twitter</a>&nbsp;•&nbsp;
+<a href="https://github.com/renbaoshuo">GitHub</a>&nbsp;•&nbsp;
+<a href="https://gitee.com/renbaoshuo">Gitee</a>&nbsp;•&nbsp;
+<a href="https://t.me/baoshuo">Telegram</a>&nbsp;•&nbsp;
+<a href="https://baoshuo.ren/about.html">Telegram</a>
+</p>
 
-Here are some ideas to get you started:
+<p id="baoshuo-age" align="center" style="display: none;"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+
+<a href="https://github.com/renbaoshuo"><img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renbaoshuo&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+
+### Blog Posts
+
+Only the latest **5** articles are displayed here.
+
+<!--START_SECTION:posts-->
+* [腾讯云服务器免费增加双IP配置](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;ipsdGhVWj&#x2F;)
+* [配置 nginx 只允许 CloudFlare 的 IP 回源](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;uf87FMFJC&#x2F;)
+* [云筏KVM服务器和NAT服务器实现内网互通](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;ihcJi0km9&#x2F;)
+* [CentOS 升级系统小版本](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;wL6UN74aX&#x2F;)
+* [【多图】在 VMware 上安装 macOS 11 Big Sur Beta](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;FYt7XcPaa&#x2F;)
+<!--END_SECTION:posts-->
+
+**See more on [baoshuo.blog](https://baoshuo.blog).**
