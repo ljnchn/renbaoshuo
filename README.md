@@ -21,11 +21,11 @@
 Only the latest **5** articles are displayed here.
 
 <!--START_SECTION:posts-->
+* [【补档】【题解】P5660 数字游戏](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;iUlAUUi_B&#x2F;)
 * [CDN 选择指北](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;qdnqr3YIZ&#x2F;)
 * [腾讯云服务器免费增加双IP配置](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;ipsdGhVWj&#x2F;)
 * [配置 nginx 只允许 CloudFlare 的 IP 回源](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;uf87FMFJC&#x2F;)
 * [云筏KVM服务器和NAT服务器实现内网互通](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;ihcJi0km9&#x2F;)
-* [CentOS 升级系统小版本](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;wL6UN74aX&#x2F;)
 <!--END_SECTION:posts-->
 
 **See more on [baoshuo.blog](https://baoshuo.blog).**
