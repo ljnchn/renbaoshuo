@@ -21,11 +21,11 @@
 Only the latest **5** articles are displayed here.
 
 <!--START_SECTION:posts-->
+* [【题解】P5738 歌唱比赛](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;Fkd_0k863&#x2F;)
 * [【补档】【题解】P5661 公交换乘](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;ggJf-YBpY&#x2F;)
 * [【补档】【题解】P5660 数字游戏](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;iUlAUUi_B&#x2F;)
 * [CDN 选择指北](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;qdnqr3YIZ&#x2F;)
 * [腾讯云服务器免费增加双IP配置](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;ipsdGhVWj&#x2F;)
-* [配置 nginx 只允许 CloudFlare 的 IP 回源](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;uf87FMFJC&#x2F;)
 <!--END_SECTION:posts-->
 
 **See more on [baoshuo.blog](https://baoshuo.blog).**
