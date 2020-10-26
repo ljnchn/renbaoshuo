@@ -21,7 +21,7 @@
 Only the latest **5** articles are displayed here.
 
 <!--START_SECTION:posts-->
-* [【题解】Bilibili 1024 节 CTF](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;miYNmmHLt&#x2F;)
+* [Bilibili 1024 节 CTF](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;miYNmmHLt&#x2F;)
 * [【题解】7606. 2020牛客NOIP赛前集训营-普及组（第二场）](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;DCpFAwc1x&#x2F;)
 * [CSP-J&#x2F;S 2020 第一轮游记](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;HfCvGHpdP&#x2F;)
 * [【补档】【题解】P1200 [USACO1.1] 你的飞碟在这儿 Your Ride Is Here](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;E3NP3ip7r&#x2F;)
